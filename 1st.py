@@ -1,3 +1,3 @@
-a = int(input("Enter "))
-b = int(input("Enter "))
+a = 5
+b = 10
 print(a+b)
